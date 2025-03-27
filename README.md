@@ -21,12 +21,13 @@ Welcome to my repository for **CSE220 lab assignments**! This repo contains all 
 Some of the solutions in this repository contain **mistakes**, which have been **explicitly pointed out** within the code using comments. If you find any errors, feel free to **fix them** and contribute!  
 
 ## 🤝 **Contributions Welcome!**  
-If you'd like to help correct mistakes, you’re more than welcome to contribute. Here’s how:  
+If you’d like to help correct mistakes, you’re more than welcome to contribute. Here’s how:  
 
 1. **Fork** this repository.  
-2. **Fix** any mistakes or improve the code.  
+2. **Fix** any code marked as incorrect. **Please don't add new code—just correct my errors.**  
 3. **Create a pull request** with a brief description of your changes.  
 
-Your contributions would be greatly appreciated! 🙌  
+Your contributions are greatly appreciated! 🙌  
 
 Happy coding! 🚀  
+
